@@ -28,7 +28,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Samuelk-Chase&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Samuelk-Chase&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelk-Chase&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=10&hide=java,html,css,Python,java script)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelk-Chase&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=10&hide=java,html,css,Python,javascript)
 
 
 ---
